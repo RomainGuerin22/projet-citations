@@ -1,0 +1,23 @@
+{
+  "name": "projet-citations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainGuerin22/projet-citations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainGuerin22/projet-citations/issues"
+  },
+  "homepage": "https://github.com/RomainGuerin22/projet-citations#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
